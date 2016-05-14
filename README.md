@@ -1,5 +1,5 @@
 # highwill
-highwill Corporateorporate Web Site
+highwill Corporate Web Site
 
 ## Web Site Type
 Vertical Parallax Scrolling One Page Websites
